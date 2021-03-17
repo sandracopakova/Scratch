@@ -552,6 +552,42 @@ Thoughts: I'm so glad I have so big help at home - my boyfriend
 Link to work: codecademy.com, https://www.codecademy.com/articles/command-line-commands
 
 
+<h2>#Day60: March 15, 2021</h2>
+
+Today's Progress: Code Review: Dasmoto's Arts & Crafts, Learn JavaScript Syntax: Conditionals
+
+Thoughts: Nothing to say today
+
+Link to work: codecademy.com, https://kinsta.com/blog/code-review-tools/
+
+
+<h2>#Day61: March 16, 2021</h2>
+
+Today's Progress: Learn JavaScript Syntax: Conditionals
+
+Thoughts: Meh.
+
+Link to work: codecademy.com
+
+
+<h2>#Day62: March 17, 2021</h2>
+
+Today's Progress: Learn JavaScript Syntax: Functions
+
+Thoughts: I did this in the beggining of the course for JS, but I don't remember a thing
+
+Link to work: codecademy.com
+
+
+<h2>#Day: March , 2021</h2>
+
+Today's Progress: 
+
+Thoughts:
+
+Link to work: 
+
+
 <h2>#Day: March , 2021</h2>
 
 Today's Progress: 
