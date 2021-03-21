@@ -601,7 +601,7 @@ Link to work: codecademy.com
 
 Today's Progress: Learn JavaScript Syntax: Scope
 
-Thoughts: JS is not my cup of tea ... I hope it gets better
+Thoughts: JS is not my cup of tea... Hope it gets better
 
 Link to work: codecademy.com, https://developers.google.com/web/tools/chrome-devtools/console/javascript
 
