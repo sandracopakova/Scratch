@@ -574,18 +574,45 @@ Link to work: codecademy.com
 
 Today's Progress: Learn JavaScript Syntax: Functions
 
-Thoughts: I did this in the beggining of the course for JS, but I don't remember a thing
+Thoughts: I did this at the beggining of the course for JS, but I don't remember a thing
 
 Link to work: codecademy.com
 
 
-<h2>#Day: March , 2021</h2>
+<h2>#Day63: March 18, 2021</h2>
 
-Today's Progress: 
+Today's Progress: Learn JavaScript Syntax: Functions
 
-Thoughts:
+Thoughts: Bored
 
-Link to work: 
+Link to work: codecademy.com
+
+
+<h2>#Day64: March 19, 2021</h2>
+
+Today's Progress: Learn JavaScript Syntax: Functions
+
+Thoughts: Stop procrastination. I'll do it today.
+
+Link to work: codecademy.com
+
+
+<h2>#Day65: March 20, 2021</h2>
+
+Today's Progress: Learn JavaScript Syntax: Scope
+
+Thoughts: JS is not my cup of tea ... I hope it gets better
+
+Link to work: codecademy.com, https://developers.google.com/web/tools/chrome-devtools/console/javascript
+
+
+<h2>#Day66: March 21, 2021</h2>
+
+Today's Progress: Number Guesser
+
+Thoughts: Hey-oh where am I? What am I doing? W-H-A-T-? And (especially) WHY?
+
+Link to work: codecademy.com
 
 
 <h2>#Day: March , 2021</h2>
