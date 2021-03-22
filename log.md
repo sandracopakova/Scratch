@@ -617,7 +617,7 @@ Link to work: codecademy.com
 
 <h2>#Day: March , 2021</h2>
 
-Today's Progress: 
+Today's Progress: Introduction: JavaScript Syntax, Part II, Learn JavaScript Syntax: Arrays,  Learn JavaScript Syntax: Loops
 
 Thoughts: I feel like an idiot. I am crying most of the time doing this course. I want to understand it. I truly do...
 
