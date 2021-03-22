@@ -619,6 +619,24 @@ Link to work: codecademy.com
 
 Today's Progress: 
 
+Thoughts: I feel like an idiot. I am crying most of the time doing this course. I want to understand it. I truly do...
+
+Link to work: codecademy.com
+
+
+<h2>#Day: March , 2021</h2>
+
+Today's Progress: 
+
+Thoughts: 
+
+Link to work: 
+
+
+<h2>#Day: March , 2021</h2>
+
+Today's Progress: 
+
 Thoughts:
 
 Link to work: 
