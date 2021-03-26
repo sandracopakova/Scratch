@@ -615,7 +615,7 @@ Thoughts: Hey-oh where am I? What am I doing? W-H-A-T-? And (especially) WHY?
 Link to work: codecademy.com
 
 
-<h2>#Day: March , 2021</h2>
+<h2>#Day67: March 22, 2021</h2>
 
 Today's Progress: Introduction: JavaScript Syntax, Part II, Learn JavaScript Syntax: Arrays,  Learn JavaScript Syntax: Loops
 
@@ -624,11 +624,47 @@ Thoughts: I feel like an idiot. I am crying most of the time doing this course. 
 Link to work: codecademy.com
 
 
-<h2>#Day: March , 2021</h2>
+<h2>#Day68: March 23, 2021</h2>
+
+Today's Progress: Learn JavaScript Syntax: Loops
+
+Thoughts: It's OK. It's OK. It's OK.
+
+Link to work: codecademy.com
+
+
+<h2>#Day69: March 24, 2021</h2>
+
+Today's Progress: Small job for Brightwater 
+
+Thoughts: Another order. I'm a little stressed because I want to do a good job.
+
+Link to work: /
+
+
+<h2>#Day70: March 25, 2021</h2>
+
+Today's Progress: Small job for Brightwater 
+
+Thoughts: Continuation :-)
+
+Link to work: /
+
+
+<h2>#Day71: March 26, 2021</h2>
+
+Today's Progress: Learn JavaScript Syntax: Loops -> The for...of Loop
+
+Thoughts: I have to practice - it's been two days since i saw it. I'm afraid I'll forget it all again :D
+
+Link to work: codecademy.com
+
+
+<h2>#Day72: March 27, 2021</h2>
 
 Today's Progress: 
 
-Thoughts: 
+Thoughts:
 
 Link to work: 
 
