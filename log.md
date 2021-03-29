@@ -662,11 +662,20 @@ Link to work: codecademy.com
 
 <h2>#Day72: March 27, 2021</h2>
 
-Today's Progress: 
+Today's Progress: Learn JavaScript Syntax: Objects
 
-Thoughts:
+Thoughts: Great work today - good mood
 
-Link to work: 
+Link to work: codecademy.com
+
+
+<h2>#Day73: March 28, 2021</h2>
+
+Today's Progress: Learn JavaScript Syntax: Objects
+
+Thoughts: I don't understand the task?? as usual
+
+Link to work: codecademy.com
 
 
 <h2>#Day: March , 2021</h2>
@@ -676,6 +685,7 @@ Today's Progress:
 Thoughts:
 
 Link to work: 
+
 
 
 
