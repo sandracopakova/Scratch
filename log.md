@@ -678,6 +678,42 @@ Thoughts: I don't understand the task?? as usual
 Link to work: codecademy.com
 
 
+<h2>#Day74: March 29, 2021</h2>
+
+Today's Progress: Learn JavaScript Syntax: Objects
+
+Thoughts: 🤷‍
+
+Link to work: codecademy.com
+
+
+<h2>#Day75: March 30, 2021</h2>
+
+Today's Progress: Learn JavaScript Syntax: Objects
+
+Thoughts: Slowly but surely
+
+Link to work: codecademy.com
+
+
+<h2>#Day76: March 31, 2021</h2>
+
+Today's Progress: Learn JavaScript Syntax: Objects
+
+Thoughts: I have attention to a maximum of one task at all.
+
+Link to work: codecademy.com
+
+
+<h2>#Day77: March 1, 2021</h2>
+
+Today's Progress: 
+
+Thoughts:
+
+Link to work: 
+
+
 <h2>#Day: March , 2021</h2>
 
 Today's Progress: 
