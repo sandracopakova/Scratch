@@ -707,11 +707,11 @@ Link to work: codecademy.com
 
 <h2>#Day77: March 1, 2021</h2>
 
-Today's Progress: 
+Today's Progress: Learn JavaScript Syntax: Objects
 
-Thoughts:
+Thoughts: I think I will never be a programmer. it's so damn hard!
 
-Link to work: 
+Link to work: codecademy.com
 
 
 <h2>#Day: March , 2021</h2>
