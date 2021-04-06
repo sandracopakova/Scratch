@@ -714,13 +714,9 @@ Thoughts: I think I will never be a programmer. it's so damn hard!
 Link to work: codecademy.com
 
 
-<h2>#Day: March , 2021</h2>
+<h2>#Day78-82: March 2. - 6., 2021</h2>
 
-Today's Progress: 
-
-Thoughts:
-
-Link to work: 
+Without comp
 
 
 
