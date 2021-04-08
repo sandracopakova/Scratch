@@ -719,6 +719,23 @@ Link to work: codecademy.com
 Without comp
 
 
+<h2>#Day83: March 7, 2021</h2>
+
+Today's Progress: Learn JavaScript Syntax: Objects, Learn JavaScript Syntax: Iterators
+
+Thoughts: Hi after a few days not so bad
+
+Link to work: codecademy.com
+
+
+<h2>#Day84: March 8, 2021</h2>
+
+Today's Progress: Learn JavaScript Syntax: Iterators
+
+Thoughts: Tough day (= normal?)
+
+Link to work: codecademy.com
+
 
 
 
