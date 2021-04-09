@@ -737,6 +737,22 @@ Thoughts: Tough day (= normal?)
 Link to work: codecademy.com
 
 
+<h2>#Day85: March 9, 2021</h2>
+
+Today's Progress: Learn JavaScript Syntax: Iterators
+
+Thoughts: Great to start early in the morning!
+
+Link to work: codecademy.com, https://www.digitalocean.com/community/tutorials/how-to-use-array-methods-in-javascript-iteration-methods, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+
+
+<h2>#Day: March , 2021</h2>
+
+Today's Progress: 
+
+Thoughts: 
+
+Link to work: 
 
 
 
