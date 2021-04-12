@@ -746,7 +746,7 @@ Thoughts: Great to start early in the morning!
 Link to work: codecademy.com, https://www.digitalocean.com/community/tutorials/how-to-use-array-methods-in-javascript-iteration-methods, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 
 
-<h2>#Day: March , 2021</h2>
+<h2>#Day86: March 10, 2021</h2>
 
 Today's Progress: 
 
@@ -754,6 +754,32 @@ Thoughts:
 
 Link to work: 
 
+
+<h2>#Day: March 11, 2021</h2>
+
+Today's Progress: 
+
+Thoughts: 
+
+Link to work: 
+
+
+<h2>#Day: March 12, 2021</h2>
+
+Today's Progress: 
+
+Thoughts: Pain
+
+Link to work: codecademy.com
+
+
+<h2>#Day: March , 2021</h2>
+
+Today's Progress: 
+
+Thoughts: 
+
+Link to work: 
 
 
 
